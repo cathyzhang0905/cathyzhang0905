@@ -19,4 +19,4 @@ A real problem outside my own information flow. 想聊：AI agent products / eva
 
 ---
 
-PM by training · Builder by need · Pivoting to AI-native product
+Senior PM @ DiDi · Builder by need · Pivoting to AI-native product
