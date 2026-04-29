@@ -2,9 +2,15 @@
 
 **AI-native PM. Ship to learn. Build to think.**
 
-我 build AI 工具解决真问题——从自己的真问题开始。Now shipping 的几个都在同一个角落：**我每天怎么收、读、转、沉淀内容洪流**。
+我 build AI 工具解决真问题——从自己的真问题开始。最近在做两条线：
 
-### 🛰 Now shipping
+- **🤖 Agent oversight** — 让 AI agent 在执行前 surface 决策点，不再"yolo"也不"baby every command"
+- **🛰 Personal information OS** — 我每天怎么收、读、转、沉淀内容洪流
+
+### 🤖 Agent oversight & collaboration
+- [`agent-cockpit`](https://github.com/cathyzhang0905/agent-cockpit) — Active oversight layer for Claude Code agents. Forces plan-first, surfaces decisions, makes thinking visible. Middle ground between "yolo" and "baby every command".
+
+### 🛰 Now shipping(personal information OS)
 - [`wechat-radar`](https://github.com/cathyzhang0905/wechat-radar) — AI 公众号智能日报，从几十个号里筛出每天值得读的几篇
 - [`wechat-article-reader`](https://github.com/cathyzhang0905/wechat-article-reader) — Claude Code skill：无需 token，让 Claude 阅读 + 搜索微信公众号文章
 - [`lenny-podcast-transcript`](https://github.com/cathyzhang0905/lenny-podcast-transcript) — 播客自动转中文 transcript（Lenny's / 任意 YouTube 频道）· speaker labels · macOS launchd 自动化
