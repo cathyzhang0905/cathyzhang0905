@@ -2,10 +2,11 @@
 
 **AI-native PM. Ship to learn. Build to think.**
 
-我 build AI 工具解决真问题——从自己的真问题开始。现在 pinned 的几个项目都在同一个角落：**我每天怎么读、怎么转、怎么沉淀内容洪流**。
+我 build AI 工具解决真问题——从自己的真问题开始。现在 pinned 的几个项目都在同一个角落：**我每天怎么收、读、转、沉淀内容洪流**。
 
 ### 🛰 Now shipping
 - [`wechat-radar`](https://github.com/cathyzhang0905/wechat-radar) — AI 公众号智能日报，从几十个号里筛出每天值得读的几篇
+- [`wechat-article-reader`](https://github.com/cathyzhang0905/wechat-article-reader) — Claude Code skill：无需 token，让 Claude 阅读 + 搜索微信公众号文章
 - [`AI-text-transfer-to-picture`](https://github.com/cathyzhang0905/AI-text-transfer-to-picture) — 长文一键变小红书 / 朋友圈卡片
 - [`notion-pdf-skill`](https://github.com/cathyzhang0905/notion-pdf-skill) — Claude skill：PDF 一步存进 Notion 知识库
 
