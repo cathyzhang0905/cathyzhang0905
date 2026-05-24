@@ -9,9 +9,6 @@
 - **Agent oversight**：让 AI agent 在执行前 surface 关键决策点，不再完全 yolo，也不需要人 baby every command。
 - **Personal information OS**：重新设计我每天怎么收、读、筛、转和沉淀信息洪流。
 
-### 重点项目
-- [`product-company-analysis`](./skills/product-company-analysis) — 一个用于深度分析产品和公司的 Codex 技能，覆盖目标用户、痛点流程、替代方案、商业模式、分发、留存、护城河、风险和战略判断。它来自我每天看 AI 产品、Product Hunt 和创业公司的研究习惯。
-
 ### 智能体协作与监督
 - [`agent-cockpit`](https://github.com/cathyzhang0905/agent-cockpit) — Claude Code 智能体的主动监督层：要求先计划再执行，暴露关键决策点，让智能体的思考和执行过程更可见。
 
@@ -21,6 +18,9 @@
 - [`lenny-podcast-transcript`](https://github.com/cathyzhang0905/lenny-podcast-transcript) — 播客自动转中文逐字稿，支持 Lenny's Podcast 和任意 YouTube 频道。
 - [`AI-text-transfer-to-picture`](https://github.com/cathyzhang0905/AI-text-transfer-to-picture) — 长文一键生成小红书 / 朋友圈卡片。
 - [`notion-pdf-skill`](https://github.com/cathyzhang0905/notion-pdf-skill) — Claude 技能：把 PDF 一步存进 Notion 知识库。
+
+### Skills / 方法论
+- [`product-company-analysis`](./skills/product-company-analysis) — 一个用于深度分析产品和公司的 Codex 技能，覆盖目标用户、痛点流程、替代方案、商业模式、分发、留存、护城河、风险和战略判断。它来自我每天看 AI 产品、Product Hunt 和创业公司的研究习惯。
 
 ### 构建中的小工具
 - [`claude-code-monthly-audit`](https://github.com/cathyzhang0905/claude-code-monthly-audit) — Claude Code 月度健康检查命令，用来审计配置文件、规则、技能、钩子、智能体和工具连接。
@@ -42,9 +42,6 @@ Right now, I'm exploring two directions:
 - **Agent oversight and collaboration**: making AI agents expose key decisions before execution, so humans can understand, intervene, and trust the workflow.
 - **Personal information OS**: redesigning how I collect, read, filter, transform, and compound information every day.
 
-### Featured project
-- [`product-company-analysis`](./skills/product-company-analysis) — A Codex skill for deep product and company analysis: target users, painful workflows, substitutes, business model, distribution, retention, moat, risks, and strategic judgment. Built from my daily AI and product research practice.
-
 ### Agent oversight and collaboration
 - [`agent-cockpit`](https://github.com/cathyzhang0905/agent-cockpit) — An active oversight layer for Claude Code agents. It enforces plan-first execution, surfaces key decisions, and makes agent work easier to inspect.
 
@@ -54,6 +51,9 @@ Right now, I'm exploring two directions:
 - [`lenny-podcast-transcript`](https://github.com/cathyzhang0905/lenny-podcast-transcript) — Automated Chinese transcripts for Lenny's Podcast and YouTube channels.
 - [`AI-text-transfer-to-picture`](https://github.com/cathyzhang0905/AI-text-transfer-to-picture) — Turns long-form text into social media image cards.
 - [`notion-pdf-skill`](https://github.com/cathyzhang0905/notion-pdf-skill) — A Claude skill for saving PDFs into a Notion knowledge base.
+
+### Skills / frameworks
+- [`product-company-analysis`](./skills/product-company-analysis) — A Codex skill for deep product and company analysis: target users, painful workflows, substitutes, business model, distribution, retention, moat, risks, and strategic judgment. Built from my daily AI and product research practice.
 
 ### Builder side projects
 - [`claude-code-monthly-audit`](https://github.com/cathyzhang0905/claude-code-monthly-audit) — A monthly health check command for Claude Code setups, covering config files, rules, skills, hooks, agents, and connected tools.
