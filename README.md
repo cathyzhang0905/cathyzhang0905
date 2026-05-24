@@ -7,6 +7,9 @@
 - **🤖 Agent oversight** — 让 AI agent 在执行前 surface 决策点，不再"yolo"也不"baby every command"
 - **🛰 Personal information OS** — 我每天怎么收、读、转、沉淀内容洪流
 
+### ⭐ Featured
+- [`product-company-analysis`](./skills/product-company-analysis) — Codex skill for deep product/company analysis: users, painful workflows, substitutes, business model, distribution, retention, moat, risks, and strategic judgment. Built from my daily AI/product research practice.
+
 ### 🤖 Agent oversight & collaboration
 - [`agent-cockpit`](https://github.com/cathyzhang0905/agent-cockpit) — Active oversight layer for Claude Code agents. Forces plan-first, surfaces decisions, makes thinking visible. Middle ground between "yolo" and "baby every command".
 
@@ -19,7 +22,6 @@
 
 ### 🛠 Builder side projects
 - [`claude-code-monthly-audit`](https://github.com/cathyzhang0905/claude-code-monthly-audit) — Claude Code 月度健康检查 slash command — audits CLAUDE.md / Rules / Skills / Hooks / Agents / MCP
-- [`product-company-analysis`](./skills/product-company-analysis) — Codex skill for deep product/company analysis: users, workflows, business model, distribution, moat, risks, and strategic judgment
 
 ### 🦞 Hunting next
 A real problem outside my own information flow. 想聊：AI agent products / eval workflow / 让 PM 真正能 ship 的 AI 工具.
