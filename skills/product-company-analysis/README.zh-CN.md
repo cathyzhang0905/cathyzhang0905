@@ -4,7 +4,7 @@
 
 它可以把一个产品、创业公司、竞品、发布页或商业想法，转化成一份结构化战略分析报告：目标用户、核心痛点、使用前后的 workflow、替代方案、核心能力、商业化、分发、留存、护城河、风险和后续验证问题。
 
-[English README](./README.md) · [范例：StoreClaw 分析](./examples/storeclaw.md)
+[English README](./README.md) · [范例：StoreClaw 分析](./examples/storeclaw.md) · [分发 / 投稿清单](./DISTRIBUTION.md)
 
 ## 为什么需要这个 skill
 
@@ -13,9 +13,20 @@
 - 真实用户是谁？
 - 用户原来痛苦的 workflow 是什么？
 - 使用这个产品之后，workflow 到底发生了什么变化？
+- 已有替代方案为什么不够好？
 - 它为什么可能成为一个可持续的公司，而不只是一个功能、demo 或 wrapper？
 
 它不局限于 AI 产品，也适用于 SaaS、marketplace、开发者工具、消费产品、平台型业务、电商产品、服务型业务和创业想法。
+
+## 安装
+
+在 Codex 里用 GitHub 目录链接安装：
+
+```text
+$skill-installer install https://github.com/cathyzhang0905/cathyzhang0905/tree/main/skills/product-company-analysis
+```
+
+安装后重启 Codex，让新 skill 生效。
 
 ## 使用方式
 
@@ -71,8 +82,17 @@ Use $product-company-analysis to produce a deep-dive analysis of <company/produc
 - Business durability test：最脆弱的一环是用户、痛点、分发、留存、商业化、护城河、经济模型、平台依赖、信任，还是执行质量？
 - Counter-position：反对这个产品最强的论点是什么？什么证据会改变这个判断？
 
+## 适合谁用
+
+- 想训练产品判断力的 PM
+- 在看创业方向、竞品或市场机会的 founder
+- 做早期项目判断的投资人、scout、研究者
+- 每天看 Product Hunt、GitHub、HN、App Store 或垂直 SaaS 新产品的 builder
+- 想判断 AI 产品到底是效率工具还是结构性改变的人
+
 ## 文件
 
 - [`SKILL.md`](./SKILL.md) — skill 主体说明
 - [`agents/openai.yaml`](./agents/openai.yaml) — Codex UI 元数据
 - [`examples/storeclaw.md`](./examples/storeclaw.md) — 完整范例
+- [`DISTRIBUTION.md`](./DISTRIBUTION.md) — 可投稿 / 可宣传的位置和文案
