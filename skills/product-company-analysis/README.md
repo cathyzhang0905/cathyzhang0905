@@ -2,6 +2,8 @@
 
 A reusable Codex skill for deep product and company analysis.
 
+[中文说明](./README.zh-CN.md) · [Example: StoreClaw analysis](./examples/storeclaw.md)
+
 It helps turn a product, startup, competitor, launch, or business idea into a structured strategy report: target users, customer pain, before/after workflow, substitutes, core capability, monetization, distribution, retention, moat, risks, and verification questions.
 
 ## Why this exists
@@ -57,3 +59,4 @@ Before writing, the skill also pressure-tests claim vs reality, workflow delta, 
 
 - [`SKILL.md`](./SKILL.md) — the skill instructions
 - [`agents/openai.yaml`](./agents/openai.yaml) — Codex UI metadata
+- [`examples/storeclaw.md`](./examples/storeclaw.md) — complete example output
