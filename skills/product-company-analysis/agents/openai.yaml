@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Company Analysis"
+  short_description: "结构化分析产品、公司和市场机会。"
+  default_prompt: "Use $product-company-analysis to produce a deep-dive product/company analysis with target users, pain points, workflow change, monetization, distribution, retention, moat, risks, and verification questions."
+
+policy:
+  allow_implicit_invocation: true
