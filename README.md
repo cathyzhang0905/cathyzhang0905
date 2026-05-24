@@ -4,10 +4,10 @@
 
 我 build AI 工具解决真问题，从自己的真问题开始。比起只讨论概念，我更喜欢把问题做成工具，再用工具反过来训练自己的产品判断力。
 
-最近主要在做两条线：
+最近主要在关注两个方向：
 
-- **Agent oversight**：让 AI agent 在执行前 surface 关键决策点，不再完全 yolo，也不需要人 baby every command。
-- **Personal information OS**：重新设计我每天怎么收、读、筛、转和沉淀信息洪流。
+- **Vertical agents**：AI agent 怎么进入具体行业和具体工作流，真正承担一段可验证、可交付的任务，而不只是停留在通用助手。
+- **Agent-human collaboration**：agent 怎么和人协作，什么时候该自主执行，什么时候该暴露判断、请求确认、交还控制权。
 
 ### 智能体协作与监督
 - [`agent-cockpit`](https://github.com/cathyzhang0905/agent-cockpit) — Claude Code 智能体的主动监督层：要求先计划再执行，暴露关键决策点，让智能体的思考和执行过程更可见。
@@ -27,7 +27,7 @@
 
 ### 我正在探索
 
-我在寻找信息流之外的真实问题，尤其关注：AI agent 产品、agent eval workflow、AI-native PM 工具，以及如何让非工程背景的人真正能够借助 AI ship 产品。
+我在持续看 vertical agents 和 agent-human collaboration 相关的产品：哪些工作流真的适合 agent 接管，哪些环节必须保留人的判断，以及好的协作界面应该怎样设计。
 
 ---
 
@@ -37,10 +37,10 @@
 
 I'm a senior product manager moving toward AI-native product building. I like starting from real personal pain, turning it into a tool, and using the tool to sharpen my product judgment.
 
-Right now, I'm exploring two directions:
+Right now, I'm focused on two directions:
 
-- **Agent oversight and collaboration**: making AI agents expose key decisions before execution, so humans can understand, intervene, and trust the workflow.
-- **Personal information OS**: redesigning how I collect, read, filter, transform, and compound information every day.
+- **Vertical agents**: how AI agents enter specific industries and workflows, and take on verifiable, deliverable tasks instead of staying as generic assistants.
+- **Agent-human collaboration**: how agents should work with humans, when they should act autonomously, when they should surface reasoning, ask for confirmation, or hand control back.
 
 ### Agent oversight and collaboration
 - [`agent-cockpit`](https://github.com/cathyzhang0905/agent-cockpit) — An active oversight layer for Claude Code agents. It enforces plan-first execution, surfaces key decisions, and makes agent work easier to inspect.
@@ -60,7 +60,7 @@ Right now, I'm exploring two directions:
 
 ### What I'm exploring
 
-I'm interested in real problems beyond my own information flow, especially AI agent products, agent evaluation workflows, AI-native PM tools, and tools that help non-engineers ship with AI.
+I'm studying products around vertical agents and agent-human collaboration: which workflows are truly suitable for agent takeover, which steps must preserve human judgment, and what good collaboration interfaces should look like.
 
 ---
 
