@@ -19,6 +19,7 @@
 
 ### 🛠 Builder side projects
 - [`claude-code-monthly-audit`](https://github.com/cathyzhang0905/claude-code-monthly-audit) — Claude Code 月度健康检查 slash command — audits CLAUDE.md / Rules / Skills / Hooks / Agents / MCP
+- [`product-company-analysis`](./skills/product-company-analysis) — Codex skill for deep product/company analysis: users, workflows, business model, distribution, moat, risks, and strategic judgment
 
 ### 🦞 Hunting next
 A real problem outside my own information flow. 想聊：AI agent products / eval workflow / 让 PM 真正能 ship 的 AI 工具.
